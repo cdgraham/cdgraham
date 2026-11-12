@@ -1,5 +1,11 @@
-I'm an undiscovered developer, tinkerer, artist and multipotentialite.
+# Hi, I'm Christopher 👋
 
-Multipotentialite who loves learning, solving problems, warehouse racking, tinkering, and crab legs. With a diverse background, I am looking for my next adventure in technology. My background includes operating nuclear reactors, software development, database and systems administrator, selling real estate, making YouTube videos, WordPress development, travelling to remote warehouses and leading teams of developers. Oh and eating crème brûlée in France.
+Developer, tinkerer, artist, and multipotentialite. I love learning, solving problems, warehouse racking, and crab legs, in no particular order.
 
-I have worked in a variety of industries, like warehouse management, real estate, gambling, financial; and various types of organizations, the Military, Government, start-ups and large firms. Looking for work in technology/software development where I can get my hands dirty, use my current skills and learn new ones.
+I run **Oddlogix LLC**, where I keep warehouse management systems running: Blue Yonder Dispatcher WMS infrastructure, Oracle and Linux systems, and AWS. If your warehouse stops when your servers do, I'm the person you call (ideally before that happens).
+
+I took the scenic route here. Over about 30 years I've operated nuclear reactors, written software, administered databases and systems, sold real estate, made YouTube videos, built WordPress sites, led teams of developers, and traveled to some very remote warehouses. I've worked for the military, government, start-ups, and large firms, in industries from warehousing and real estate to gambling and finance. I've also eaten crème brûlée in France, which I consider a career highlight.
+
+That mix means I'm comfortable getting my hands dirty anywhere in the stack, and I rarely meet a problem I haven't seen a cousin of.
+
+**Need help with your WMS, Oracle, Linux, or AWS environment?** Get in touch: https://oddlogix.com
